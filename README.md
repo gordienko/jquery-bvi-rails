@@ -1,6 +1,8 @@
 Button visually impaired Jquery plugin for Ruby on Rails asset pipeline
 =======================================================================
 
+![banner](http://bvi.isvek.ru/themes/bvi/img/banner-772x250.jpg)
+
 
 Installation
 ------------
