@@ -7,7 +7,7 @@ Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-bvi-rails'
+    gem 'jquery-bvi-rails', github: 'gordienko/jquery-bvi-rails'
 
 And then execute:
 

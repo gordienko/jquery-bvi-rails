@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jquery/bvi/rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'jquery-bvi-jquery_bvi_rails'
+  spec.name          = 'jquery-bvi-rails'
   spec.version       = Jquery::Bvi::Rails::VERSION
   spec.authors       = ['Alexey Gordienko']
   spec.email         = ['alx@anadyr.org']
   spec.description   = %q{Button visually impaired Jquery plugin for Ruby on Rails asset pipeline}
   spec.summary       = %q{Button visually impaired Jquery plugin for Ruby on Rails asset pipeline}
-  spec.homepage      = 'https://github.com/gordienko/jquery-bvi-jquery_bvi_rails'
+  spec.homepage      = 'https://github.com/gordienko/jquery-bvi-rails'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
